@@ -1,0 +1,12 @@
+{
+  "name": "testyup",
+  "version": "1.0.0",
+  "description": "testing my own yup",
+  "main": "testMyYup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "zs",
+  "license": "ISC"
+}
